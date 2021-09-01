@@ -10,4 +10,4 @@ def my_each(array)
     array
 end
 
-my_each([1,2,3,4]) { |i| p i }
+my_each([1,2,3,4]) { |i| p i } # using p instead of puts to complete ;)
